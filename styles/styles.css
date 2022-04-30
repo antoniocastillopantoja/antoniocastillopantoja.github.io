@@ -96,6 +96,18 @@
     height: 50px;
 }
 
+.publicidadtci{
+    padding-top: 50px;    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imagenpub{
+    width: 1000px;
+    height: 500px;
+}
+
 /* Size tablet-landscape  */
 @media (min-width: 991px) and (max-width: 1324px) {
     .container-cards{
